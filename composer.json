@@ -1,0 +1,17 @@
+{
+    "name": "rando/crud2",
+    "autoload": {
+        "psr-4": {
+            "Rando\\Crud2\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "RandolfoCarvalho",
+            "email": "randolfoirades@gmail.com"
+        }
+    ],
+    "require": {
+        "dompdf/dompdf": "^2.0"
+    }
+}
